@@ -1,0 +1,74 @@
+{
+    "name": "gruvbox-themes",
+    "version": "1.0.0",
+    "description": "Gruvbox themes with full palette support and granular header hierarchy.",
+    "themes": [
+        {
+            "name": "gruvbox-dark",
+            "type": "custom",
+            "text": {
+                "primary": "#ebdbb2",
+                "secondary": "#a89984",
+                "link": "#83a598",
+                "accent": "#fe8019",
+                "response": "#ebdbb2"
+            },
+            "background": {
+                "primary": "#282828",
+                "diff.added": "#79740e",
+                "diff.removed": "#7d2019"
+            },
+            "border": {
+                "default": "#3c3836",
+                "focused": "#fabd2f"
+            },
+            "status": {
+                "success": "#b8bb26",
+                "warning": "#fabd2f",
+                "error": "#fb4934"
+            },
+            "ui": {
+                "comment": "#928374",
+                "symbol": "#d3869b",
+                "gradient": [
+                    "#fabd2f",
+                    "#fe8019",
+                    "#fb4934"
+                ]
+            }
+        }, {
+            "name": "gruvbox-light",
+            "type": "custom",
+            "text": {
+                "primary": "#3c3836",
+                "secondary": "#7c6f64",
+                "link": "#076678",
+                "accent": "#af3a03",
+                "response": "#3c3836"
+            },
+            "background": {
+                "primary": "#fbf1c7",
+                "diff.added": "#b8bb26",
+                "diff.removed": "#fb4934"
+            },
+            "border": {
+                "default": "#ebdbb2",
+                "focused": "#b57614"
+            },
+            "status": {
+                "success": "#79740e",
+                "warning": "#b57614",
+                "error": "#9d0006"
+            },
+            "ui": {
+                "comment": "#928374",
+                "symbol": "#8f3f71",
+                "gradient": [
+                    "#b57614",
+                    "#af3a03",
+                    "#9d0006"
+                ]
+            }
+        }
+    ]
+}
