@@ -4,7 +4,11 @@ A vibecoded extension for the [Gemini CLI](https://geminicli.com) providing the 
 
 ## Screenshot
 
-![Screenshot](https://github.com/user-attachments/assets/29012e02-69f2-4e1b-ade4-e3bc5b30f248)
+![Screenshot Dark](https://github.com/user-attachments/assets/29012e02-69f2-4e1b-ade4-e3bc5b30f248)
+
+
+![Screenshot Light](https://github.com/user-attachments/assets/ad5985ea-2e4d-48fb-afe2-720a2f2fb24f)
+
 
 ## Installation
 
